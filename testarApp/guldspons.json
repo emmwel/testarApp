@@ -1,0 +1,14 @@
+{
+  guldsponsorer:  [
+      {
+        "name": "Cygni",
+        "image": "https://secure.gravatar.com/avatar/d3840c66be5e6e7d374ea39093a46acc",
+        "plats": 1,
+        "onsdag": 1,
+        "torsdag": 1,
+
+      },
+
+    ]
+
+}
